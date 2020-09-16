@@ -4,9 +4,9 @@
     margin-left: 50px;
 }
 
-.navbar-brand{
-    font-family: 'Rancho','Red Rose', cursive;
-    font-size:35px
+.navbar-brand {
+    font-family: 'Rancho', 'Red Rose', cursive;
+    font-size: 35px
 }
 
 .heading {
@@ -35,7 +35,19 @@ img {
 
 footer {
     width: 100%;
-    height: 5%;
+    height: 4%;
     position: fixed;
     bottom: 0;
+}
+
+.repo {
+    float: right;
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+.resume {
+    float: right;
 }
