@@ -51,3 +51,8 @@ a:link, a:visited {
 .resume {
     float: right;
 }
+
+.icon {
+    height: 100px;
+    width: 100px;
+}
