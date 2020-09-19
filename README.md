@@ -2,7 +2,7 @@
 
 ![top_language](https://img.shields.io/github/languages/top/clarissareeve/personalportfolio) ![languages](https://img.shields.io/github/languages/count/clarissareeve/personalportfolio) ![W3C Validation](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fclarissareeve.github.io%2FPersonalPortfolio%2F)
 
-Link to live site: [Portfolio](https://clarissareeve.github.io/personalportfolio/)
+Link to live site: [Portfolio](https://clarissareeve.github.io/PersonalPortfolio/)
 
 ![Landing Page](assets/LandingPage.png)
 
